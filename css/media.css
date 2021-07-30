@@ -339,34 +339,34 @@
         width: 90%;
         margin: 10px 25px;
     }
-    
-    .contact .form .first
-    {
-        width: 90%;
-    }
-    
     .contact .form .first .input-name
-    {
-        width: 100%;
-        margin-bottom: 20px; ;
-    }
-    .contact .form .first .input-email
-    {
-        width: 100%;
-    }
-    
-    .contact .form .second
-    {
-        width: 90%;
-    }
-    .contact .form .second .input-subject
-    {
-        width: 100%;
-    }
-    .contact .form .second .input-area
-    {
-        width: 100%;
-    }
+{
+    width: 100%;
+    margin-bottom: 20px;
+}
+.contact .form .first .input-email
+{
+    width: 100%;
+}
+
+.contact .form .second
+{
+    width: 90%;
+}
+
+.contact .form .second .input-subject
+{
+    width: 100%;
+}
+
+.contact .form .second .input-area
+{
+    width: 100%;
+}
+.contact .desing
+{
+    width:30%;
+}
     
 }
 
@@ -571,11 +571,6 @@
         width: 20%;
     }
 
-    .contact .form .first
-    {
-        width: 90%;
-    }
-    
     .contact .form .first .input-name
     {
         width: 100%;
@@ -590,13 +585,19 @@
     {
         width: 90%;
     }
+    
     .contact .form .second .input-subject
     {
         width: 100%;
     }
+    
     .contact .form .second .input-area
     {
         width: 100%;
+    }
+    .contact .desing
+    {
+        width:30%;
     }
 }
 
